@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialLesson</string>
+    <string name="search_in_wiki">найти в Wikipedia</string>
+    <string name="hint_search_text">Найти в Википедии</string>
+    <string name="nasa_url">https://api.nasa.gov/</string>
+    <string name="wiki">wiki</string>
+</resources>

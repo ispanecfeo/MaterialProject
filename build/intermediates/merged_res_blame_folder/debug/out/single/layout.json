@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/stasavdeeev/Desktop/material desaign/Material_1/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_wiki_bottom_sheet_dialog.xml",
+        "source": "/Users/stasavdeeev/Desktop/material desaign/Material_1/app/src/main/res/layout/fragment_wiki_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/stasavdeeev/Desktop/material desaign/Material_1/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_picture_nasa.xml",
+        "source": "/Users/stasavdeeev/Desktop/material desaign/Material_1/app/src/main/res/layout/fragment_picture_nasa.xml"
+    },
+    {
+        "merged": "/Users/stasavdeeev/Desktop/material desaign/Material_1/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/stasavdeeev/Desktop/material desaign/Material_1/app/src/main/res/layout/activity_main.xml"
+    }
+]
